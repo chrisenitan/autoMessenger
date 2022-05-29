@@ -1,0 +1,4 @@
+2022/05/29-10:57:35.901 bb03 Reusing MANIFEST /Users/demo/Documents/autoMessenger/indexUserData/Default/Site Characteristics Database/MANIFEST-000001
+2022/05/29-10:57:35.913 bb03 Recovering log #3
+2022/05/29-10:57:35.913 bb03 (ignoring error) /Users/demo/Documents/autoMessenger/indexUserData/Default/Site Characteristics Database/000003.log: dropping 511 bytes; Corruption: checksum mismatch
+2022/05/29-10:57:35.913 bb03 Reusing old log /Users/demo/Documents/autoMessenger/indexUserData/Default/Site Characteristics Database/000003.log 

@@ -1,0 +1,4 @@
+{
+    "textBox": "[data-testid='conversation-panel-wrapper'] div[role='textbox']",
+    "sendButton": "[data-testid='conversation-panel-wrapper'] button"
+}

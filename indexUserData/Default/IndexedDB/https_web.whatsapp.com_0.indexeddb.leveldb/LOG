@@ -1,0 +1,16 @@
+2022/05/29-10:57:53.059 14c03 Reusing MANIFEST /Users/demo/Documents/autoMessenger/indexUserData/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/29-10:57:53.059 14c03 Recovering log #46
+2022/05/29-10:57:53.093 14c03 Reusing old log /Users/demo/Documents/autoMessenger/indexUserData/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000046.log 
+2022/05/29-10:57:57.885 13903 Level-0 table #53: started
+2022/05/29-10:57:58.081 13903 Level-0 table #53: 1170833 bytes OK
+2022/05/29-10:57:58.153 13903 Delete type=0 #46
+2022/05/29-10:57:58.754 13903 Compacting 1@1 + 3@2 files
+2022/05/29-10:57:58.877 13903 Generated table #54@1: 39050 keys, 2243408 bytes
+2022/05/29-10:57:58.934 13903 Generated table #55@1: 2983 keys, 2150117 bytes
+2022/05/29-10:57:59.020 13903 Generated table #56@1: 53446 keys, 2062269 bytes
+2022/05/29-10:57:59.020 13903 Compacted 1@1 + 3@2 files => 6455794 bytes
+2022/05/29-10:57:59.064 13903 compacted to: files[ 0 0 3 0 0 0 0 ]
+2022/05/29-10:57:59.064 13903 Delete type=2 #49
+2022/05/29-10:57:59.064 13903 Delete type=2 #48
+2022/05/29-10:57:59.064 13903 Delete type=2 #50
+2022/05/29-10:57:59.064 13903 Delete type=2 #53

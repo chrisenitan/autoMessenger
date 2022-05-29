@@ -1,0 +1,23 @@
+{
+  "name": "automessenger",
+  "version": "1.0.0",
+  "description": "Send scheduled messages to any number of recipients on WhatsApp via the Web interface. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "start": "node index.js",
+    "setup": "node configuration.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "schedule",
+    "messages"
+  ],
+  "author": "Chris Enitan",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.22.2",
+    "dotenv": "^16.0.1",
+    "playwright": "^1.22.2"
+  }
+}

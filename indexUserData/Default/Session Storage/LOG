@@ -1,0 +1,4 @@
+2022/05/29-10:57:51.748 4f03 Reusing MANIFEST /Users/demo/Documents/autoMessenger/indexUserData/Default/Session Storage/MANIFEST-000001
+2022/05/29-10:57:51.750 4f03 Recovering log #3
+2022/05/29-10:57:51.750 4f03 (ignoring error) /Users/demo/Documents/autoMessenger/indexUserData/Default/Session Storage/000003.log: dropping 19944 bytes; Corruption: checksum mismatch
+2022/05/29-10:57:51.750 4f03 Reusing old log /Users/demo/Documents/autoMessenger/indexUserData/Default/Session Storage/000003.log 
