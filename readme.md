@@ -6,12 +6,15 @@ The idea was to find a easier way to send repeated messages to contact list usin
 
 #### Approach
 
-At 60 seconds intervals, a message queuer checks the time threshold for all message jobs in an array or objects, if a time match is found between current time and message time, a messenger is called which runs required UI process for sending a message.
+At 60 seconds intervals, a message queuer checks the time threshold for all message jobs in an array of objects, if a time match is found between current time and message trigger time, a messenger function is called which runs required UI process for sending a chat message.
+
+- This flow requires an existing chat with the recipient
+    - Intended changes on [Issue 3](https://github.com/chrisenitan/autoMessenger/issues/3)
 
 ### Stack
 
-- Node and JS
-- Playwright
+- [Node](https://github.com/nodejs/node) and Javascript
+- [Playwright](https://github.com/microsoft/playwright)
 
 ### Setup
 

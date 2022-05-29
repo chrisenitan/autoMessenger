@@ -5,14 +5,24 @@ require("dotenv").config()
 const allRecipients = [
   {
     id: process.env.id,
-    message: "Custom message",
-    time: "10:37",
+    message: "🥋 Custom message 🥋",
+    time: "11:47",
   },
   {
-    id: process.env.id,
-    message: "This is a test two",
-    time: "10:01",
+    id: process.env.four,
+    message: ":)",
+    time: "17:30",
   },
+  {
+    id: process.env.bdK,
+    message: "Evening alles",
+    time: "21:10",
+  },
+  {
+    id: process.env.bdK,
+    message: "Good morning everyone, wish you a great day ahead",
+    time: "8:10",
+  }
 ]
 
 module.exports = allRecipients
