@@ -11,7 +11,7 @@ const queue = async (allRecipients) => {
     console.log(
       `Currently ${hour}:${minute}. Message will be sent at ${userTime[0]}:${userTime[1]}`
     )
-    //sends one min earlier to cover 1min time loss
+    //sends one min earlier to cover 1min interval time loss
     if (hour == userTime[0] && minute == userTime[1] - 1) {
       console.log("Sending message")
       await sendMessage(currentRecipients)
