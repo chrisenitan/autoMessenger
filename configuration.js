@@ -1,4 +1,4 @@
-
+const { log } = require("./src/utils")
 const { chromium } = require("@playwright/test")
 
 /**
@@ -13,7 +13,7 @@ const setUp = async () => {
 
   const page = await browser.newPage()
   await page.goto("https://web.whatsapp.com/")
-  console.log("Please Login to Whatsapp")
+  log("Please Login to Whatsapp")
   await page.waitForTimeout(60000)
 }
 

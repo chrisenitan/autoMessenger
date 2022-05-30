@@ -3,19 +3,19 @@ require("dotenv").config()
 //* process.env.id can be name or number of the receiver. Used for chat UI selection
 //todo move to a ui step
 const allRecipients = [
-  {
+  /* {
     id: process.env.id,
     message: "🥋 Custom message 🥋",
     time: "11:47",
-  },
+  }, */
   {
     id: process.env.four,
-    message: ":)",
+    message: "Hi dear...thinking about you thinking about me",
     time: "17:30",
   },
   {
     id: process.env.bdK,
-    message: "Evening alles",
+    message: "Evening all...",
     time: "21:10",
   },
   {
