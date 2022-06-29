@@ -24,3 +24,6 @@ At 60 seconds intervals, a message queuer checks the time threshold for all mess
   - WIP: This will be abstracted to a UI step in future updates
 - Run `npm run setup` to configure and sign into WhatsApp Web
 - Run `npm start` to start the app in background
+
+## Main Issue
+https://github.com/chrisenitan/autoMessenger/issues/6
